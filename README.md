@@ -10,7 +10,8 @@ A new Flutter project.
 - Update all text "shopping-list-id-default-rtdb.firebaseio.com" to your firebase project id
 - flutter run
 
-  ![Screenshot](https://raw.githubusercontent.com/DevLfmd/shopping_list/refs/heads/master/assets/images/1.png)
-  ![Screenshot](https://raw.githubusercontent.com/DevLfmd/shopping_list/refs/heads/master/assets/images/2.png)
-  ![Screenshot](https://raw.githubusercontent.com/DevLfmd/shopping_list/refs/heads/master/assets/images/3.png)
-  ![Screenshot](https://raw.githubusercontent.com/DevLfmd/shopping_list/refs/heads/master/assets/images/4.png)
+  ![Screenshot](https://raw.githubusercontent.com/DevLfmd/shopping_list/refs/heads/master/assets/1.png)
+  ![Screenshot](https://raw.githubusercontent.com/DevLfmd/shopping_list/refs/heads/master/assets/2.png)
+  ![Screenshot](https://raw.githubusercontent.com/DevLfmd/shopping_list/refs/heads/master/assets/3.png)
+  ![Screenshot](https://raw.githubusercontent.com/DevLfmd/shopping_list/refs/heads/master/assets/4.png)
+  
